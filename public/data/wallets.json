@@ -1,0 +1,243 @@
+{
+    "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96": {
+        "id": "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96",
+        "name": "MetaMask",
+        "homepage": "/meta-mask_",
+        "chains": ["eip155:1"],
+        
+        "metadata": {
+          "shortName": "MetaMask",
+          "colors": {
+            "primary": "rgb(255, 255, 255)",
+            "secondary": ""
+          }
+        }
+      },
+    "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0": {
+      "id": "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0",
+      "name": "Trust Wallet",
+      "homepage": "/trust-wallet",
+      "chains": ["eip155:1"],
+     
+      "metadata": {
+        "shortName": "Trust",
+        "colors": {
+          "primary": "rgb(51, 117, 187)",
+          "secondary": ""
+        }
+      }
+    },
+    
+    "wa11et5l0go": {
+      "id": "wa11et5l0go",
+      "name": "WalletConnect",
+      "homepage": "/wallet-connect",
+      "chains": ["eip155:1"],
+      
+      "metadata": {
+        "shortName": "WallectConnect",
+        "colors": {
+          "primary": "",
+          "secondary": ""
+        }
+      }
+    },
+    "c01nba5e": {
+      "id": "c01nba5e",
+      "name": "Coinbase Wallet",
+      "homepage": "/coin_base",
+      "chains": ["eip155:1"],
+      
+      "metadata": {
+        "shortName": "Coinbase",
+        "colors": {
+          "primary": "",
+          "secondary": ""
+        }
+      }
+    },
+    "l3d93r": {
+      "id": "l3d93r",
+      "name": "Ledger",
+      "homepage": "/ledgers",
+      "chains": ["eip155:1"],
+     
+      "metadata": {
+        "shortName": "Ledger",
+        "colors": {
+          "primary": "",
+          "secondary": ""
+        }
+      }
+    },
+    "tr3z0r": {
+      "id": "tr3z0r",
+      "name": "Trezor",
+      "homepage": "/trezor_",
+      "chains": ["eip155:1"],
+      
+      "metadata": {
+        "shortName": "Trezor",
+        "colors": {
+          "primary": "rgb(255, 255, 255)",
+          "secondary": ""
+        }
+      }
+    },
+    "70rmat1c": {
+      "id": "70rmat1c",
+      "name": "Formatic",
+      "homepage": "/fortmatic_",
+      "chains": ["eip155:1"],
+      
+      "metadata": {
+        "shortName": "Fortmatic",
+        "colors": {
+          "primary": "rgb(255, 255, 255)",
+          "secondary": ""
+        }
+      }
+    },
+    "pr0t1s": {
+      "id": "pr0t1s",
+      "name": "Portis",
+      "homepage": "/protis_",
+      "chains": ["eip155:1"],
+      "metadata": {
+        "shortName": "Protis",
+        "colors": {
+          "primary": "rgb(41, 128, 254)",
+          "secondary": ""
+        }
+      }
+    },
+    "5quar3l1nk": {
+      "id": "5quar3l1nk",
+      "name": "Squarelink",
+      "homepage": "/squarelink_",
+      "chains": ["eip155:1"],
+     
+      "metadata": {
+        "shortName": "Squarelink",
+        "colors": {
+          "primary": "",
+          "secondary": ""
+        }
+      }
+    },
+    "tr0u5": {
+        "id": "tr0u5",
+        "name": "Torus",
+        "homepage": "/torus_",
+        "chains": ["eip155:1"],
+       
+        "metadata": {
+          "shortName": "Torus",
+          "colors": {
+            "primary": "",
+            "secondary": ""
+          }
+        }
+          },
+          "71dad538ba02a9b321041d388f9c1efe14e0d1915a2ea80a90405d2f6b67a33d": {
+        "id": "71dad538ba02a9b321041d388f9c1efe14e0d1915a2ea80a90405d2f6b67a33d",
+        "name": "Authereum",
+        "homepage": "/authereum-wallet",
+        "chains": ["eip155:1"],
+    
+        "metadata": {
+          "shortName": "Authereum",
+          "colors": {
+            "primary": "",
+            "secondary": ""
+          }
+        }
+      },
+    
+    "tr0nwa113t": {
+      "id": "tr0nwa113t",
+      "name": "Tron Wallet",
+      "homepage": "/tron-wallet",
+      "chains": ["eip155:1"],
+      
+      "metadata": {
+        "shortName": "Tron",
+        "colors": {
+          "primary": "",
+          "secondary": ""
+        }
+      }
+    },
+    "185850e869e40f4e6c59b5b3f60b7e63a72e88b09e2a43a40b1fd0f237e49e9a": {
+        "id": "185850e869e40f4e6c59b5b3f60b7e63a72e88b09e2a43a40b1fd0f237e49e9a",
+        "name": "Atomic",
+        "homepage": "/atomic-wallet",
+        "chains": ["eip155:1"],
+       
+        "metadata": {
+          "shortName": "Atomic",
+          "colors": {
+            "primary": "",
+            "secondary": ""
+          }
+        }
+      },
+    
+    "m3wwa113t": {
+      "id": "m3wwa113t",
+      "name": "MEW Wallet",
+      "homepage": "/mewwallet_",
+      "chains": ["eip155:1", "eip155:56"],
+      
+      "metadata": {
+        "shortName": "1inch",
+        "colors": {
+          "primary": "rgb(31, 36, 46)",
+          "secondary": ""
+        }
+      }
+     },
+     "20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66": {
+      "id": "20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66",
+      "name": "TokenPocket",
+      "homepage": "/tokenpocket_",
+      "chains": ["eip155:1"],
+     
+      "metadata": {
+        "shortName": "TokenPocket",
+        "colors": {
+          "primary": "rgb(41, 128, 254)",
+          "secondary": ""
+        }
+      }
+    },
+    "0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150": {
+      "id": "0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150",
+      "name": "SafePal",
+      "homepage": "/safepal_",
+      "chains": ["eip155:1"],
+      "metadata": {
+        "shortName": "SafePal",
+        "colors": {
+          "primary": "rgb(0, 128, 255)",
+          "secondary": ""
+        }
+      }
+    },
+     "3nj1n": {
+      "id": "3nj1n",
+      "name": "Enjin Wallet",
+      "homepage": "/enjin_",
+      "chains": ["eip155:1", "eip155:56"],
+      
+      "metadata": {
+        "shortName": "1inch",
+        "colors": {
+          "primary": "rgb(31, 36, 46)",
+          "secondary": ""
+        }
+      }
+     }
+
+  
+}
